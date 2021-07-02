@@ -31,7 +31,7 @@
     "url": "https://github.com/iobroker-community-adapters/ioBroker.owntracks"
   },
   "dependencies": {
-    "libsodium-wrappers": "^0.7.8",
+    "libsodium-wrappers": "^0.7.9",
     "create-stream-server": "^0.1.1",
     "mqtt-connection": "^4.0.0",
     "@iobroker/adapter-core": "^2.4.0"
