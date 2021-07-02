@@ -33,7 +33,7 @@
   "dependencies": {
     "libsodium-wrappers": "^0.7.8",
     "create-stream-server": "^0.1.1",
-    "mqtt-connection": "^4.0.0",
+    "mqtt-connection": "^4.1.0",
     "@iobroker/adapter-core": "^2.4.0"
   },
   "devDependencies": {
